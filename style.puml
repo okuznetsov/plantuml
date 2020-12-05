@@ -1,0 +1,19 @@
+@startuml
+skinparam {
+    EntityBackgroundColor #7acff5
+    EntityBorderColor #000
+    ParticipantBackgroundColor #7acff5
+    ParticipantBorderColor #000
+    DatabaseBackgroundColor #7acff5
+    DatabaseBorderColor #000
+    SequenceLifeLineBackgroundColor #7acff5
+    SequenceLifeLineBorderColor #000
+    BackgroundColor #00
+    NoteBackgroundColor #f3e7f8
+    NoteBorderColor #cc93e1
+    NoteRoundCorner 20
+    ArrowColor #000
+    SequenceGroupBorderThickness 0
+    Shadowing false
+}
+@enduml
